@@ -8,7 +8,7 @@ setuptools.setup(
     name='stage_reporter',                           # should match the package folder
     packages=['stage_reporter'],                     # should match the package folder
     version='0.0.1',                                # important for updates
-    license='MIT',                                  license
+    license='MIT',                                  # should match your chosen license
     description='Testing installation of Package',
     long_description=long_description,              
     long_description_content_type="text/markdown",  
@@ -31,5 +31,5 @@ setuptools.setup(
         'Programming Language :: Python :: 3.9',
     ],
     
-    download_url=" ",
+    download_url="https://github.com/DonnieData/stage-reporter/archive/refs/tags/v.0.0.1.tar.gz",
 )

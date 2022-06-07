@@ -14,8 +14,7 @@ class stage_reporter():
         
     def update_headers(self,headers):
         self.headers = headers
-        
-                    
+                  
     #method to log stages 
     # need to be able to start and stop time - so need a method to start time and one ot stop - or both in on method based o nstage? 
     #execution types: 'start' or 'finish'
