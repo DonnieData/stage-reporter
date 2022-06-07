@@ -13,7 +13,7 @@ setuptools.setup(
     long_description=long_description,              
     long_description_content_type="text/markdown",  
     author='Donnell Jackson',
-    author_email='mikehuls42@gmail.com',
+    author_email='donnie.developer@gmail.com',
     url='https://github.com/DonnieData/stage-reporter', 
     project_urls = {                                # Optional
         "Bug Tracker": "https://github.com/DonnieData/stage-reporter/issues"
