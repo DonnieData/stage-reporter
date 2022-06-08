@@ -31,5 +31,5 @@ setuptools.setup(
         'Programming Language :: Python :: 3.9',
     ],
     
-    download_url="https://github.com/DonnieData/stage-reporter/archive/refs/tags/v.0.0.1.tar.gz",
+    download_url="https://github.com/DonnieData/stage-reporter/archive/refs/tags/v.0.0.2.tar.gz",
 )
