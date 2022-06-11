@@ -1,3 +1,6 @@
+import pandas as pd
+from datetime import datetime
+
 #takes in list of headers 
 # creates dict with header name: [empty list] paring 
 #appending will happen based on colum id - another dict will be made with headers enumerated and have numbers as keys? or just use names 

@@ -7,7 +7,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 setuptools.setup(
     name='stage_reporter',                           # should match the package folder
     packages=['stage_reporter'],                     # should match the package folder
-    version='0.0.1',                                # important for updates
+    version='0.0.2',                                # important for updates
     license='MIT',                                  # should match your chosen license
     description='Testing installation of Package',
     long_description=long_description,              
