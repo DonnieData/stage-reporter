@@ -4,7 +4,7 @@ from datetime import datetime
 #takes in list of headers 
 # creates dict with header name: [empty list] paring 
 #appending will happen based on colum id - another dict will be made with headers enumerated and have numbers as keys? or just use names 
-class stage_reporter(): 
+class reporter(): 
     #input list of headers 
     #def __init__(self):
         #self.cerate_frame()
